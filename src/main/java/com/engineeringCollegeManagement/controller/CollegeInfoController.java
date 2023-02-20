@@ -20,7 +20,7 @@ import com.engineeringCollegeManagement.entity.CourseInfo;
 import com.engineeringCollegeManagement.model.StaffDetails;
 import com.engineeringCollegeManagement.service.CollegeInfoService;
 import com.engineeringCollegeManagement.serviceIMPL.collegeInfoServiceIMPL;
-//@author Sameer
+
 @RestController
 @RequestMapping("/college-info")
 public class CollegeInfoController {
